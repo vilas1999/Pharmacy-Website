@@ -1,0 +1,10 @@
+insert into orders values(1234,"I12DT5",222,"D2","Dimetapp",450,2,900);
+insert into orders values(5678,"I24CR7",555,"D3","Crocin 650",58,10,580);
+insert into orders values(9101,"I31SD1",333,"D3","Sudafed",3350,2,6700);
+insert into orders values(1121,"I62PB6",111,"D1","Pepto Bismol",280,5,1400);
+insert into orders values(3142,"I36AD3",444,"D1","Advil Ibuprofen",370,6,2220);
+insert into orders values(1234,"I14FN5",222,"D2","Flonase",140,4,560);
+insert into orders values(9101,"I11BD7",333,"D3","Benadryl",75,2,150);
+insert into orders values(5678,"I18VK9",555,"D3","Vicks",70,3,210);
+insert into orders values(8157,"I27DS5",111,"D1","Disprin",50,2,100);
+insert into orders values(9919,"I24CR7",333,"D3","Crocin 650",58,5,290);
